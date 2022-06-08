@@ -1,0 +1,19 @@
+.Input-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+  }
+  input{
+    width: 25rem;
+    height: 35px;
+  }
+  .list-Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
